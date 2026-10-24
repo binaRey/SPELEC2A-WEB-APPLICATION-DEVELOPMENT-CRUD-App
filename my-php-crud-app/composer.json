@@ -1,0 +1,18 @@
+{
+    "name": "spelec2a/php-crud-app",
+    "description": "Core PHP CRUD app with a custom lightweight ORM and PSR-4 autoloading",
+    "type": "project",
+    "require": {
+        "php": ">=8.0",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        },
+        "files": [
+            "core/helpers.php"
+        ]
+    }
+}
