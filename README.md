@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHP CRUD App (Core PHP + Custom ORM + PSR-4)
 
 A CRUD web application built with **PHP 8+**, **MySQL/MariaDB** and **PDO**, with **no frameworks**.
@@ -126,3 +127,6 @@ Skip link, landmarks, labelled form fields, `aria-invalid`/`aria-describedby` on
 | PDO prepared statements | `core/Database.php`, ORM |
 | Input validation and graceful errors | `UserController`, `views/errors` |
 | Deliverables: source, SQL schema, README, ORM/PSR-4 docs | all files, `schema.sql`, `README.md`, `docs/` |
+=======
+# SPELEC2A-WEB-APPLICATION-DEVELOPMENT-CRUD-App
+>>>>>>> 391c7a4a0c15f97c73aba85da87c9706bef1f947
